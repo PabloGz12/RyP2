@@ -1,0 +1,35 @@
+
+	table, th, td {
+
+  border: 2px solid black;
+  border-radius: 120px;
+    text-align: center;
+  }
+
+body {
+  background-image: url(" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYDg7uQs0JyXoLVN4t8qYngF9Wcd3o7APuA&usqp=CAU");
+   
+}
+
+p{
+  color: black;
+  font-family: cursive;
+  }
+
+  h3{
+    font-family: cursive;
+  }
+
+
+
+
+h1{
+  text-transform: uppercase;
+  color:black;
+  font-family: cursive;
+}
+
+img{
+  border-radius: black;
+  border: dashed  ;
+}
